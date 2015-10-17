@@ -44,20 +44,19 @@ Napomena: Biće prikazano uputstvo za instalaciju za Windows OS (ali i za Linux 
 
 Prvo je neophodno instalirati određene "dependencies" za Theano.
 
-1. Otvoriti **Command prompt** i uneti:
-
+* 1. Otvoriti **Command prompt** i uneti:
 ```code
 conda install mingw libpython
 ```
 
-2. i zatim:
+* 2. i zatim:
 
 ```code
 conda update conda
 conda update anaconda
 ```
 
-3. Sad još samo instalirati Theano sa PIP:
+* 3. Sad još samo instalirati Theano sa PIP:
 
 ```code
 pip install Theano
