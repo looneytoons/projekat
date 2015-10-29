@@ -89,7 +89,7 @@ Ako je nije moguće preuzeti online, možete je iskopirati sa nekih od računara
 
 1. Instalirati **Oracle VM VirtualBox (ver 5.x)**.
 
-2. Preuzeti datoteku **AnacondaVM.7z** sa ... (biće dostupan link čim datoteka bude postavljena online).
+2. Preuzeti datoteke **AnacondaVM.7z** sa https://drive.google.com/folderview?id=0B1ZJXQY32LBUVThuZkNmQ0VjMVk&usp=sharing
 
 3. Raspakovati datoteku **AnacondaVM.7z** -> dobiće se datoteka **AnacondaVM.vdi**.
 
