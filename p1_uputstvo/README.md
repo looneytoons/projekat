@@ -24,7 +24,7 @@ scclient.download_imgs()
 ```
 
 * Ako sve prođe kako treba, slike bi trebale da vam budu u istom direktorijumu gde vam se nalazi kod ili notebook koji koristite
-* Sliku _train.jpg koristite za obučavanje neuronske mreže, a na slici _test.jpg treba izvršiti prepoznavanje
+* Sliku *_train.jpg* koristite za obučavanje neuronske mreže, a na slici *_test.jpg* treba izvršiti prepoznavanje
 * Kada završite sa odbranom P1, zatvorite klijenta:
 
 ```python
