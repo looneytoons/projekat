@@ -23,8 +23,8 @@ scclient = SCClient(code='xxxxx', indeks='RAXX/2012', ip='0.0.0.0', port=8080)
 scclient.download_imgs()
 ```
 
-* Ako sve prođe kako treba, slike bi trebale da vam budu u istom direktorijumu gde vam se nalazi kod ili notebook koji koristite
-* Sliku _train.jpg koristite za obučavanje neuronske mreže, a na slici _test.jpg treba izvršiti prepoznavanje
+* Ako sve prođe kako treba, slike bi trebalo da budu u istom direktorijumu gde vam se nalazi kod ili notebook koji koristite
+* Sliku *_train.jpg* koristite za obučavanje neuronske mreže, a na slici *_test.jpg* treba izvršiti prepoznavanje
 * Kada završite sa odbranom P1, zatvorite klijenta:
 
 ```python
