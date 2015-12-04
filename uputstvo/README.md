@@ -110,3 +110,7 @@ Ako je nije moguće preuzeti online, možete je iskopirati sa nekih od računara
 i ako u njemu postoji folder **AnacondaVM**, obrisati samo taj folder.
 
 3. Uraditi sve od 4. koraka u **Instalacija virutalne mašine**
+
+
+
+- Popravni zadatak: https://drive.google.com/folderview?id=0B1ZJXQY32LBUYXlfVi05UlJ2TnM&usp=sharing
