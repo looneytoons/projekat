@@ -114,3 +114,4 @@ i ako u njemu postoji folder **AnacondaVM**, obrisati samo taj folder.
 
 
 - Popravni zadatak: https://drive.google.com/folderview?id=0B1ZJXQY32LBUYXlfVi05UlJ2TnM&usp=sharing
+- Popravni zadatak 2: https://drive.google.com/file/d/0B0QppPFZlzPsLWxwaFd5dkU0cjA/view?usp=sharing
